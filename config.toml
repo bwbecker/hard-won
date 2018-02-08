@@ -1,0 +1,12 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Hard-Won Scala + Play"
+theme = "learn"
+
+# For search functionnality
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[params]
+author = "Byron Weber Becker"
+description = "Hard-won solutions to Scala + Play problems"
